@@ -1,1 +1,1 @@
-# Car-Prediction-using-RandomForest
+# Resale-Car-Price-Prediction-using-RandomForest
